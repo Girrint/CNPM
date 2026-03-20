@@ -111,7 +111,7 @@ A. Lấy và phân tích yêu cầu; Thiết kế
 
 B. Lập trình; Kiểm thử
 
-C. Họp nhóm dự án
+(C.) Họp nhóm dự án
 
 D. Triển khai; Vận hành và Bảo trì
 
@@ -123,13 +123,13 @@ B. Trễ tiến độ
 
 C. Chất lượng kém
 
-D. Dễ bảo trì 
+(D.) Dễ bảo trì 
 
 #### Câu hỏi 1.3 Một phần mềm như thế nào là có chất lượng? Phát biểu nào không đúng?
 
 A. Tính hiệu quả (efficiency)
 
-B. Tính khó bảo trì (non maintainability)
+(B.) Tính khó bảo trì (non maintainability)
 
 C. Tính bảo mật và tin cậy (security & reliability)
 
