@@ -1,6 +1,6 @@
 # CÁC MÔ HÌNH PHÁT TRIỂN PHẦN MỀM
 
-## 📌 Tổng quan
+## Tổng quan
 
 ### Phát triển phần mềm gồm 6 công đoạn chính:
 
@@ -20,55 +20,55 @@
 
 ---
 
-## 📊 Các mô hình chính
+## Các mô hình chính
 
 ### 1. Mô hình Thác nước (Waterfall)
 
-🔹 Tuần tự, tuyến tính, không quay lại
+- Tuần tự, tuyến tính, không quay lại
 
-🔹 Mỗi giai đoạn phải hoàn thành rồi mới sang bước tiếp
+- Mỗi giai đoạn phải hoàn thành rồi mới sang bước tiếp
 
-🔹 Phù hợp: yêu cầu rõ ràng, ổn định
+- Phù hợp: yêu cầu rõ ràng, ổn định
 
-👉 Nhược điểm: khó thay đổi
+=> Nhược điểm: khó thay đổi
 
 ### 2. Mô hình chữ V (V-Model)
 
-🔹 Mở rộng từ Waterfall
+- Mở rộng từ Waterfall
 
-🔹 Kiểm thử song song với phát triển
+- Kiểm thử song song với phát triển
 
-🔹 Mỗi giai đoạn dev ↔ một giai đoạn test
+- Mỗi giai đoạn dev ↔ một giai đoạn test
 
-👉 Phù hợp: hệ thống cần độ tin cậy cao
+=> Phù hợp: hệ thống cần độ tin cậy cao
 
 ### 3. Mô hình lặp (Iterative)
 
-🔹 Phát triển theo nhiều vòng lặp nhỏ
+- Phát triển theo nhiều vòng lặp nhỏ
 
-🔹 Mỗi vòng tạo ra phiên bản chạy được
+- Mỗi vòng tạo ra phiên bản chạy được
 
-🔹 Liên tục cải tiến dựa trên phản hồi
+- Liên tục cải tiến dựa trên phản hồi
 
-👉 Phù hợp: yêu cầu chưa rõ ràng
+=> Phù hợp: yêu cầu chưa rõ ràng
 
 ### 4. Agile / Scrum
 
-🔹 Chia thành các Sprint (1–4 tuần)
+- Chia thành các Sprint (1–4 tuần)
 
-🔹 Làm việc linh hoạt, thích ứng thay đổi
+- Làm việc linh hoạt, thích ứng thay đổi
 
-🔹 Có các khái niệm chính:
+- Có các khái niệm chính:
 
 Product Backlog: danh sách chức năng
 
 Sprint Backlog: việc trong 1 sprint
 
-👉 Phù hợp: dự án thay đổi thường xuyên
+=> Phù hợp: dự án thay đổi thường xuyên
 
 ---
 
-## ⚙️ Mô hình Thác nước – công việc chính
+## Mô hình Thác nước – công việc chính
 
 ### 1. Yêu cầu
 
@@ -108,27 +108,27 @@ Công cụ: Grafana, Prometheus
 
 ---
 
-## ❗ Ý quan trọng cần nhớ (dễ thi)
+##  Ý quan trọng cần nhớ (dễ thi)
 
 ### Waterfall:
 
-✔ Tuần tự, không quay lại
+- Tuần tự, không quay lại
 
-✔ Phù hợp yêu cầu rõ ràng
+- Phù hợp yêu cầu rõ ràng
 
 ### V-Model:
 
-✔ Dev đi đôi với Test
+- Dev đi đôi với Test
 
 ### Iterative:
 
-✔ Làm nhiều phiên bản nhỏ
+- Làm nhiều phiên bản nhỏ
 
 ### Scrum:
 
-✔ Sprint = 1–4 tuần
+- Sprint = 1–4 tuần
 
-✔ Linh hoạt, thích nghi
+- Linh hoạt, thích nghi
 
 ---
 
